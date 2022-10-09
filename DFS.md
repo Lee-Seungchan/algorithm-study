@@ -76,7 +76,7 @@ public class DFS_List {
 
 #### 입력
 
-<img src="C:\Users\이승찬\Desktop\개인 공부자료\01 algorithm\image\dfs.png" width="380px" height="200px">
+<img src="https://user-images.githubusercontent.com/103403612/194748850-b382b496-790e-471d-9a39-d9b25623b6e7.png" width="380px" height="200px">
 
 ```java
 5 5 3
@@ -177,7 +177,7 @@ public class DFS_Array {
 
 #### 입력
 
-<img src="C:\Users\이승찬\Desktop\개인 공부자료\01 algorithm\image\dfs2.png" width="380px" height="200px">
+<img src="https://user-images.githubusercontent.com/103403612/194748903-f8047a33-0b90-4827-aebb-04ba210dec2c.png" width="380px" height="200px">
 
 ```java
 4 5 1
